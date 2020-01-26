@@ -1,0 +1,17 @@
+{
+  "name": "professionaljavascript",
+  "version": "1.0.0",
+  "description": "\"Proyecto del Curso Profesional de JS Platzi\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "\"platzi\""
+  ],
+  "author": "Juan Spinello \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\"\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001bJuan Spinello\"",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
