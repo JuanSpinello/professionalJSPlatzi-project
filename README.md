@@ -1,1 +1,1 @@
-# profJavascriptPlatzi-project
+# professionalJSPlatzi-project
